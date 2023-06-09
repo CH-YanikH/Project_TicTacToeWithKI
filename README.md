@@ -8,3 +8,5 @@ In the "1 versus AI" mode, players can challenge the built-in AI, which has been
 Through this project, I had the opportunity to explore the fundamentals of C# programming and gain hands-on experience with Windows Forms development. Developing a TicTacToe game allowed me to practice user input handling, game logic implementation, and the integration of an AI opponent.
 
 Please enjoy this beginner's TicTacToe game with AI opponent and keep in mind that it represents one of my initial forays into C# and Windows Forms development. Your feedback and understanding are appreciated as I continue to learn and improve my programming skills.
+
+# Installation
