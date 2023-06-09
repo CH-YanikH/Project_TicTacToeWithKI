@@ -1,4 +1,5 @@
 # Project TicTacToe with a small AI
+## Description
 This project is a personal endeavor to create a TicTacToe game with an artificial intelligence (AI) opponent, allowing users to play against it. Developed during the first year of my training program as part of a project day, the game was built using C# and Windows Forms.
 
 The TicTacToe game offers two modes: "1 versus 1" and "1 versus AI." In the "1 versus 1" mode, two players can compete against each other on the same device, taking turns to place their X or O marks on the grid. The objective is to form a line of three marks horizontally, vertically, or diagonally before the opponent does.
@@ -9,7 +10,7 @@ Through this project, I had the opportunity to explore the fundamentals of C# pr
 
 Please enjoy this beginner's TicTacToe game with AI opponent and keep in mind that it represents one of my initial forays into C# and Windows Forms development. Your feedback and understanding are appreciated as I continue to learn and improve my programming skills.
 
-# Installation
+## Installation
 1. Download the source code from the Releases section.
 2. Extract the source code to a preferred location on your computer.
 3. Open the following path: TicTacToe/bin/Debug.
