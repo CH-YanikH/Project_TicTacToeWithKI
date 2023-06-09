@@ -1,4 +1,4 @@
-# Project TicTacToe with a small AI
+# Project TicTacToe with a AI
 ## Description
 This project is a personal endeavor to create a TicTacToe game with an artificial intelligence (AI) opponent, allowing users to play against it. Developed during the first year of my training program as part of a project day, the game was built using C# and Windows Forms.
 
