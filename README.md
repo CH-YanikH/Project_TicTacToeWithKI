@@ -21,4 +21,5 @@ That's it! You have successfully downloaded and launched the game. Enjoy playing
 I apologize for the current inconvenience and complexity involved in installing and starting the game. I hope to improve this process in the future.
 
 ##Screenshots
+
 <img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/Bilder/Mainmenu.png" alt="MainMenu" title="MainMenu">
