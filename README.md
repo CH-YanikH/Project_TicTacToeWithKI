@@ -10,3 +10,9 @@ Through this project, I had the opportunity to explore the fundamentals of C# pr
 Please enjoy this beginner's TicTacToe game with AI opponent and keep in mind that it represents one of my initial forays into C# and Windows Forms development. Your feedback and understanding are appreciated as I continue to learn and improve my programming skills.
 
 # Installation
+1. Download the source code from the Releases section.
+2. Extract the source code to a preferred location on your computer.
+3. Open the following path: TicTacToe/bin/Debug.
+4. Inside the Debug folder, you will find a file named TicTacToe.exe. Double-click on this file to start the game.
+
+That's it! You have successfully downloaded and launched the game. Enjoy playing!
