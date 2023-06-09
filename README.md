@@ -22,6 +22,6 @@ We apologize for the current inconvenience and complexity involved in installing
 
 <h2>Screenshots</h2>
 
-<img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/Bilder/Mainmenu.png" alt="MainMenu">
-<img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/Bilder/Game.png" alt="MainMenu">
-<img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/Bilder/Creds.png" alt="MainMenu">
+<img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/pictures/Mainmenu.png" alt="MainMenu">
+<img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/pictures/Game.png" alt="MainMenu">
+<img src="https://github.com/CH-YanikH/TicTacToe_With_AI/blob/main/pictures/Creds.png" alt="MainMenu">
