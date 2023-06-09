@@ -4,11 +4,11 @@ This project is a personal endeavor to create a TicTacToe game with an artificia
 
 The TicTacToe game offers two modes: "1 versus 1" and "1 versus AI." In the "1 versus 1" mode, two players can compete against each other on the same device, taking turns to place their X or O marks on the grid. The objective is to form a line of three marks horizontally, vertically, or diagonally before the opponent does.
 
-In the "1 versus AI" mode, players can challenge the built-in AI, which has been programmed to provide an interactive and engaging gaming experience. As one of my early projects with C# and Windows Forms, it's important to note that the game may not meet advanced expectations but aims to offer an enjoyable and functional experience nonetheless.
+In the "1 versus AI" mode, players can challenge the built-in AI, which has been programmed to provide an interactive and engaging gaming experience. As one of our early projects with C# and Windows Forms, it's important to note that the game may not meet advanced expectations but aims to offer an enjoyable and functional experience nonetheless.
 
-Through this project, I had the opportunity to explore the fundamentals of C# programming and gain hands-on experience with Windows Forms development. Developing a TicTacToe game allowed me to practice user input handling, game logic implementation, and the integration of an AI opponent.
+Through this project, we had the opportunity to explore the fundamentals of C# programming and gain hands-on experience with Windows Forms development. Developing a TicTacToe game allowed us to practice user input handling, game logic implementation, and the integration of an AI opponent.
 
-Please enjoy this beginner's TicTacToe game with AI opponent and keep in mind that it represents one of my initial forays into C# and Windows Forms development. Your feedback and understanding are appreciated as I continue to learn and improve my programming skills.
+Please enjoy this beginner's TicTacToe game with AI opponent and keep in mind that it represents one of our initial forays into C# and Windows Forms development. Your feedback and understanding are appreciated as we continue to learn and improve our programming skills.
 
 ## Installation
 1. Download the source code from the Releases section.
@@ -18,7 +18,7 @@ Please enjoy this beginner's TicTacToe game with AI opponent and keep in mind th
 
 That's it! You have successfully downloaded and launched the game. Enjoy playing!
 
-I apologize for the current inconvenience and complexity involved in installing and starting the game. I hope to improve this process in the future.
+We apologize for the current inconvenience and complexity involved in installing and starting the game. We hope to improve this process in the future.
 
 <h2>Screenshots</h2>
 
