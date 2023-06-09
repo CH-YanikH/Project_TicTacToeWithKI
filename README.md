@@ -1,1 +1,1 @@
-# Project_TicTacToeWithKI
+# Project TicTacToe with a small AI
